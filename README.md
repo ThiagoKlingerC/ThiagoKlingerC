@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-🎓 Estudante de Ciência da Computação na Faculdade Descomplica. Focado em desenvolvimento Java. ☕
+🎓 Estudante de Ciência da Computação focado em desenvolvimento Java. ☕
 
 ---
 
