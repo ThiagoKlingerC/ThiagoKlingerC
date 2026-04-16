@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-🎓 Estudante de Ciência da Computação focado em desenvolvimento Java. ☕
+🎓 Bacharelando de Ciência da Computação . Focado em desenvolvimento Java. ☕
 
 ---
 
